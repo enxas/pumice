@@ -1,0 +1,14 @@
+{
+	"name": "enxas/pumice",
+	"description": "A simple, lightweight library that enables the execution of asynchronous PHP tasks.",
+	"type": "library",
+	"autoload": {
+		"psr-4": {
+			"Enxas\\": "src/"
+		}
+	},
+	"require": {
+		"php": ">=8.0"
+	},
+	"license": "MIT"
+}
